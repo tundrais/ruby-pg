@@ -18,6 +18,7 @@ PKGDIR  = BASEDIR + 'pkg'
 TMPDIR  = BASEDIR + 'tmp'
 TESTDIR = BASEDIR + "tmp_test_*"
 
+hobas
 DLEXT   = RbConfig::CONFIG['DLEXT']
 EXT     = LIBDIR + "pg_ext.#{DLEXT}"
 
